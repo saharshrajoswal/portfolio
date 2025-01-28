@@ -1,20 +1,15 @@
-# Data Analyst
+# Aspiring Data Analyst
 
 #### Technical Skills: Excel, SQL, Power BI, Tableau, Python
 
-## Education
-- 					       		
-- M.Sc., Global Production Engineering	| Technische Universität Berlin (_October 2022 - Present_)	 			        		
-- B.Tech., Mechanical Engineering | Vellore Institute of Technology, Chennai (_July 2017 - June 2021)
+## Education			       		
+- M.Sc. Global Production Engineering	| Technische Universität Berlin (_October 2022 - Present_)	 			        		
+- B.Tech. Mechanical Engineering | Vellore Institute of Technology, Chennai (_July 2017 - June 2021)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Change Management @ Alstom Transportation (_June 2023 - Present_)
+- Sourcing Engineer @ Karkhana.io  (October 2021 - June 2022_)
+- DFM Engineer @ Unbox Robotics (_June 2021 - October 2021_)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
