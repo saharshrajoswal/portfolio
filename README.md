@@ -4,11 +4,11 @@
 
 ## Education			       		
 - M.Sc. Global Production Engineering	| Technische Universität Berlin (_October 2022 - Present_)	 			        		
-- B.Tech. Mechanical Engineering | Vellore Institute of Technology, Chennai (_July 2017 - June 2021)
+- B.Tech. Mechanical Engineering |      Vellore Institute of Technology, Chennai (_July 2017 - June 2021_)
 
 ## Work Experience
 - Change Management @ Alstom Transportation (_June 2023 - Present_)
-- Sourcing Engineer @ Karkhana.io  (October 2021 - June 2022_)
+- Sourcing Engineer @ Karkhana.io  (_October 2021 - June 2022_)
 - DFM Engineer @ Unbox Robotics (_June 2021 - October 2021_)
 
 ## Projects
