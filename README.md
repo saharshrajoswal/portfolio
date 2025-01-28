@@ -3,8 +3,8 @@
 #### Technical Skills: Excel, SQL, Power BI, Tableau, Python
 
 ## Education			       		
-- M.Sc. Global Production Engineering	| Technische Universität Berlin (_October 2022 - Present_)	 			        		
-- B.Tech. Mechanical Engineering |      Vellore Institute of Technology, Chennai (_July 2017 - June 2021_)
+- M.Sc | Global Production Engineering	| Technische Universität Berlin (_October 2022 - Present_)	 			        		
+- B.Tech | Mechanical Engineering |      Vellore Institute of Technology, Chennai (_July 2017 - June 2021_)
 
 ## Work Experience
 - Change Management @ Alstom Transportation (_June 2023 - Present_)
